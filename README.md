@@ -4,6 +4,8 @@ Simulador interativo de uma **biosfera em cúpula**: uma estufa de vidro hemisf�
 
 Roda no navegador, com visualização 3D em tempo real, gráficos e um motor físico que roda sem interface (e por isso pode ser testado de forma automática).
 
+**[Ver o simulador online](https://ecodomo-simulator.vercel.app)**
+
 > Os resultados são estimativas de um modelo físico simplificado. Servem para explorar ideias e comparar cenários, não para dimensionar uma obra real.
 
 ## O que é a EcoDomo
